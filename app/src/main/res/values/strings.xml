@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyMusicPlayer</string>
+    <string name="title">音乐列表</string>
+    <string name="musicname">musicname</string>
+    <string name="musicauther">musicauther</string>
+</resources>
